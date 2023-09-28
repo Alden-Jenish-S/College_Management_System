@@ -1,0 +1,13 @@
+College Management System
+
+Professors,
+Students,
+Courses,
+CGPA
+
+Student:
+Name, Register No, Email, Course, gpa, CGPA
+
+Professor:
+Name, Prof Id, Email, Course, Salary
+
